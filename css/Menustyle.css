@@ -1,0 +1,29 @@
+ body {
+     margin: 0px;
+     background-image: url(file:///C:/Users/t%C3%BCrkan%C9%99/OneDrive/Desktop/Ders/img/painting-mountain-lake-with-mountain-background_188544-9126.avif);
+ }
+
+ .Eyyub {
+     height: 90px;
+     width: 980px;
+     background-color: green;
+     font-size: 50px;
+     padding-left: 300px;
+     transition: 1s;
+
+ }
+ a{
+    color: whitesmoke;
+ }
+.Eyyub:hover{
+    height: 150Px;
+    background-color: lightgreen;
+}
+a:hover{
+    color: black;
+}
+.Sa{
+    color: brown;
+}
+
+ 

@@ -1,0 +1,26 @@
+body{
+    background-image: url(file:///C:/Users/t%C3%BCrkan%C9%99/OneDrive/Desktop/Ders/img/bb.jpg);
+    margin: 0px;
+}
+.SA{
+    height: 89px;
+    width: 1280px;
+    background-image: url(file:///C:/Users/t%C3%BCrkan%C9%99/OneDrive/Desktop/Ders/img/j.jpg);
+    font-size:xx-large;
+    color: whitesmoke;
+    display: inline-block;
+}
+.as{
+    color: whitesmoke;
+    display:inline-block;
+    
+    
+}
+.St{
+    color: darkmagenta;
+    display: inline-block;
+}
+h1{
+color: darkgreen;    
+font-size: xx-large;
+}

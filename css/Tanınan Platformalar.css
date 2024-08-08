@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+}
+
+.Style {
+    height: 150px;
+ min-width: 721px;
+    background-image:url(file:///C:/Users/t%C3%BCrkan%C9%99/OneDrive/Desktop/Ders/img/g.jpg) ;
+    font-size: 50px;
+    padding-left: 540px;
+    transition: 1s;
+}
+.Style2{
+    height: 150px;
+ min-width: 621px;
+    background-image:url(file:///C:/Users/t%C3%BCrkan%C9%99/OneDrive/Desktop/Ders/img/f.jpg) ;   
+    font-size: 50px;
+    padding-left: 640px;
+    transition: 1s;
+
+}
+a{
+   color: whitesmoke;
+}
+.Style:hover{
+   height: 200Px;
+   background-image: url(file:///C:/Users/t%C3%BCrkan%C9%99/OneDrive/Desktop/Ders/img/a.jpg);
+}
+a:hover{
+   color: black;
+}
+.Style2:hover{
+    height: 200px;
+    background-image: url(file:///C:/Users/t%C3%BCrkan%C9%99/OneDrive/Desktop/Ders/img/h.jpg);
+}
